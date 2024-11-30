@@ -1,0 +1,23 @@
+node_modules
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Svelte build files
+public/build/
+
+# SvelteKit build files
+.svelte-kit/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE specific files
+.vscode/
+.DS_Store
+
+# Environment variables
+.env
